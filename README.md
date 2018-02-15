@@ -1,2 +1,3 @@
 # docker
-pull docker files to dockerhub
+pull docker files to dockerhub <br>
+from gcr kube
